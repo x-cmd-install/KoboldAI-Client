@@ -1,22 +1,24 @@
 about:
-  description: For GGUF support, see KoboldCPP: https://github.com/LostRuins/koboldcpp
+  description:
+  |
+    For GGUF support, see KoboldCPP: https://github.com/LostRuins/koboldcpp
   license: AGPL-3.0
   homepage: https://koboldai.com
   head: 1ce811c
   archived: false
   latestVersion: dummy
-  collectedAt: 2026-09-04T04:54:36Z
+  collectedAt: 2026-09-04T19:51:23Z
 timeline:
   created: 2021-05-02
   lastCommit: 2025-01-16
   lastRelease: 2024-08-21
 popularity:
-  star: 3944
+  star: 3943
   watcher: 73
   fork: 860
   release: 5
   contributor: 28
-  pullRequest: 49
+  pullRequest: 131
   issue: 292
 language:
   Python: 712291
@@ -33,7 +35,7 @@ language:
   Jupyter Notebook: 3515
   PowerShell: 2255
   Dockerfile: 852
-totalLine: 1193506
+totalBytes: 1193506
 recent:
   last30d:
     since: 2026-08-05
@@ -41,6 +43,14 @@ recent:
     mergedPR: 0
     openPR: 0
     closedIssue: 0
+    openIssue: 1
+    commit: 0
+  last60d:
+    since: 2026-07-06
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 1
     openIssue: 1
     commit: 0
   last90d:
@@ -67,3 +77,21 @@ recent:
     closedIssue: 9
     openIssue: 1
     commit: 0
+  last720d:
+    since: 2024-09-14
+    release: 0
+    mergedPR: 0
+    openPR: 1
+    closedIssue: 18
+    openIssue: 1
+    commit: 1
+total:
+  release: 5
+  mergedPR: 82
+  openPR: 5
+  closedIssue: 177
+  openIssue: 115
+  commit: 1914
+---
+---
+
