@@ -7,7 +7,7 @@ about:
   head: 1ce811c
   archived: false
   latestVersion: dummy
-  collectedAt: 2026-09-04T19:51:23Z
+  collectedAt: 2026-09-04T20:56:33Z
 timeline:
   created: 2021-05-02
   lastCommit: 2025-01-16
@@ -93,5 +93,103 @@ total:
   openIssue: 115
   commit: 1914
 ---
+path: /home/runner/.x-repo/github.com/KoboldAI/KoboldAI-Client
+collectedAt: 2026-09-04T20:56:35Z
+loc:
+  Python:
+    code: 13297
+    comments: 1272
+    blanks: 1462
+    files: 12
+  Css:
+    code: 3899
+    comments: 165
+    blanks: 1552
+    files: 14
+  JavaScript:
+    code: 3380
+    comments: 247
+    blanks: 285
+    files: 10
+  Less:
+    code: 2384
+    comments: 6
+    blanks: 929
+    files: 3
+  Sass:
+    code: 2382
+    comments: 5
+    blanks: 932
+    files: 3
+  Stylus:
+    code: 1903
+    comments: 3
+    blanks: 1173
+    files: 3
+  Lua:
+    code: 1710
+    comments: 738
+    blanks: 244
+    files: 66
+  Svg:
+    code: 540
+    comments: 3
+    blanks: 0
+    files: 1
+  Html:
+    code: 523
+    comments: 0
+    blanks: 4
+    files: 3
+  Batch:
+    code: 233
+    comments: 0
+    blanks: 31
+    files: 8
+  Sh:
+    code: 231
+    comments: 31
+    blanks: 32
+    files: 9
+  Json:
+    code: 197
+    comments: 0
+    blanks: 0
+    files: 7
+  Yaml:
+    code: 120
+    comments: 0
+    blanks: 0
+    files: 4
+  Dockerfile:
+    code: 20
+    comments: 2
+    blanks: 1
+    files: 3
+  Ini:
+    code: 2
+    comments: 0
+    blanks: 0
+    files: 1
+  Jupyter:
+    code: 0
+    comments: 15
+    blanks: 8
+    files: 2
+  Markdown:
+    code: 0
+    comments: 705
+    blanks: 200
+    files: 2
+  Text:
+    code: 0
+    comments: 64
+    blanks: 5
+    files: 3
+total:
+  code: 30900
+  comments: 3271
+  blanks: 6873
+  files: 154
 ---
 
