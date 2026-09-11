@@ -7,7 +7,7 @@ about:
   latestVersion: "dummy"
   latestRelease: "dummy"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T05:40:08Z
+  collectedAt: 2026-09-11T19:15:01Z
 timeline:
   created: 2021-05-02
   lastCommit: 2025-01-16
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2024-08-21
   lastPrerelease: 
 popularity:
-  star: 3944
+  star: 3943
   watcher: 73
   fork: 861
   release: 5
@@ -96,7 +96,7 @@ total:
   commit: 1914
 ---
 path: /home/runner/.x-repo/github.com/KoboldAI/KoboldAI-Client
-collectedAt: 2026-09-11T05:40:10Z
+collectedAt: 2026-09-11T19:15:07Z
 loc:
   Python:
     code: 13297
