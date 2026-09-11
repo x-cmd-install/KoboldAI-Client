@@ -37,7 +37,7 @@ x install KoboldAI-Client
 
 ## 流行度
 
-- **Star**: 3,944 · **Fork**: 861 · **开放 issue**: 292 · **贡献者**: 28
+- **Star**: 3,943 · **Fork**: 861 · **开放 issue**: 292 · **贡献者**: 28
 
 ## 累计统计
 
@@ -63,4 +63,4 @@ KoboldAI-Client 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/i
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260911.yml` · 2026-09-11T05:40:14Z._
+_数据快照: `data/card/260911.yml` · 2026-09-11T19:15:15Z._
