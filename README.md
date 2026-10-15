@@ -33,26 +33,26 @@ Total: **30,821** lines of code across **42** files in the top 5 languages.
 ## Release
 
 - **Latest**: `dummy` (2024-08-21)
-- **Last commit**: 2025-01-16
+- **Last commit**: 2026-10-14
 
 ## Popularity
 
-- **Stars**: 3,953 · **Forks**: 860 · **Open issues**: 293 · **Contributors**: 28
+- **Stars**: 3,954 · **Forks**: 861 · **Open issues**: 293 · **Contributors**: 28
 
 ## Totals (cumulative)
 
-- **Releases**: 5 · **Merged PRs**: 82 · **Open PRs**: 4 · **Closed issues**: 178 · **Open issues**: 115 · **Commits**: 1914
+- **Releases**: 5 · **Merged PRs**: 82 · **Open PRs**: 4 · **Closed issues**: 178 · **Open issues**: 115 · **Commits**: 1915
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-14 | 0 | 0 | 0 | 1 | 0 | 0 |
-| last60d | 2026-08-15 | 0 | 0 | 0 | 1 | 0 | 0 |
-| 90d | 2026-07-16 | 0 | 0 | 0 | 2 | 1 | 0 |
-| last180d | 2026-04-17 | 0 | 0 | 0 | 7 | 1 | 0 |
-| 360d | 2025-10-19 | 0 | 0 | 1 | 9 | 1 | 0 |
-| last720d | 2024-10-24 | 0 | 0 | 1 | 18 | 1 | 1 |
+| 30d | 2026-09-15 | 0 | 0 | 0 | 1 | 0 | 1 |
+| last60d | 2026-08-16 | 0 | 0 | 0 | 1 | 0 | 1 |
+| 90d | 2026-07-17 | 0 | 0 | 0 | 2 | 1 | 1 |
+| last180d | 2026-04-18 | 0 | 0 | 0 | 7 | 1 | 1 |
+| 360d | 2025-10-20 | 0 | 0 | 1 | 9 | 1 | 1 |
+| last720d | 2024-10-25 | 0 | 0 | 1 | 18 | 1 | 2 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for KoboldAI-Client lives in the [x-cmd/install](https://github
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261014.yml` · 2026-10-14T05:50:16Z._
+_Snapshot: `data/card/261015.yml` · 2026-10-15T05:24:48Z._
